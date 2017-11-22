@@ -9,4 +9,4 @@ was increased to 100 sets of all combination.  80 % of this data was then used f
 
 A six layer model was choosen with random units from 250 to 50 all with relu activation except with the last layer using softmax. 
 
-A accuracy of 95.41 percent was achieved for test data and validation accuracy was at 95.57. Evaluation was at 94.66 percent.
+A accuracy of 95.41 percent was achieved for train data and validation accuracy was at 95.57. Evaluation accuracy was at 94.66 percent.
